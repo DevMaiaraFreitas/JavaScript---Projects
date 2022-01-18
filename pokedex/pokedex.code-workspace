@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\ajax"
+		},
+		{
+			"path": "..\\..\\Projeto_ListaSupermercado"
+		},
+		{
+			"path": "..\\..\\Projeto_Jokenpo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projeto_Jokenpo"
+	}
+}
